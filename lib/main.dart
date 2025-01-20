@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
           ],
           color: Colors.blue,
         image: const DecorationImage(image: AssetImage("assets/images/ofppt.jpg",), fit: BoxFit.cover),
-          borderRadius:BorderRadius.circular(10)
+          borderRadius:BorderRadius.circular(20)
          ),
           child:const Text("ISTA",style: TextStyle(color:Colors.white,fontSize: 50,fontFamily: 'Caveat'),)
         
